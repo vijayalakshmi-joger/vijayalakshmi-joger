@@ -4,7 +4,7 @@ Recently completed the Google Data Analytics Professional Certificate, gaining p
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in pdf.
+My CV in [Vijayalakshmi_Joger_Resume.pdf](https://github.com/user-attachments/files/17094957/Vijayalakshmi_Joger_Resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
