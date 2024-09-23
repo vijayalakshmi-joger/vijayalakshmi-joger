@@ -13,11 +13,11 @@ My CV in [Vijayalakshmi_Joger_Resume.pdf](https://github.com/user-attachments/fi
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 Technical Skills
-- [ ] Linux Administration: System administration, server management, shell scripting
-- [ ] Data Analytics: Data cleaning, data analysis, data visualization
+- [ ] Operating Systems: Windows, Linux(Red hat, CentOS), MacOS
+- [ ] Data Analytics: Data cleaning, data analysis, data visualization, MS Excel
 - [ ] Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- [ ] Cloud Platforms: Google Cloud Platform (GCP)
-- [ ] Data Tools: Data Studio
+- [ ] Cloud Platforms: Azure
+- [ ] Data visualization: Tablaeu
 
 Soft Skills
 - [ ] Problem-solving
