@@ -1,3 +1,7 @@
+Vijayalakshmi Joger -  Aspiring Data analyst
+
+About me
+
 Dedicated Linux administrator with over 5 years of experience in system administration, server management, and troubleshooting. Currently transitioning into the data analytics field.
 
 Recently completed the Google Data Analytics Professional Certificate, gaining proficiency in data cleaning, analysis, and visualization. Seeking opportunities to leverage my technical skills and passion for data to contribute to impactful projects as a Data Analyst or Data Scientist.
@@ -24,7 +28,7 @@ Soft Skills
 
 
 CERTIFICATIONS
-● Google Data Analytics Professional Certificate from Coursera.
-● Python basics from Kodekloud
-● The Complete SQL Bootcamp from Udemy
-● Complete Python Bootcamp from Udemy
+- [ ] Google Data Analytics Professional Certificate from Coursera.
+- [ ] Python basics from Kodekloud
+- [ ] The Complete SQL Bootcamp from Udemy
+- [ ] Complete Python Bootcamp from Udemy
